@@ -1,0 +1,8 @@
+vmd, indents, keeps ansi
+glow, rewraps, tries to color colorblocks, keeps ansi, tui
+lowdown
+bat, keep ansi, pager
+mdo, keeps ansi, pager, tries to color codeblocks, break asciio§
+mdcat, weird output format
+mdless, breaks asciio, weird output
+frogmouth, maybe good for presentations, slow, too many decorations
