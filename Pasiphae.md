@@ -9,3 +9,4 @@ interactive widgets
   can be edited in a popup
   can be edited graphically
   
+and alternative name could be: Thyone
